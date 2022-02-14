@@ -1,0 +1,164 @@
+{
+  "talents": [
+    {
+      "index": 0,
+      "name": "Adversary",
+      "active": false,
+      "ranked": true,
+      "forcesensitive": false,
+      "text": "Upgrade the difficulty of any combat check targeting this character once per rank of Adversary."
+    },
+    {
+      "index": 1,
+      "name": "Against all Odds",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": true,
+      "text": "Once per session, if the character is incapacitated due to exceeding his wound threshold, he may perform the Against All Odds action (this action may be performed even though characters are normally barred from performing actions when incapacitated). The character makes a $bHard ($d $d $d) Resilience check$b, rolling a number of $D equal to his Force rating as part of the check. If successful, the character heals would equal to $s. The character may spend Force points $f to add $s to the result."
+    },
+    {
+      "index": 2,
+      "name": "Aggressive Negotiations",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": true,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 3,
+      "name": "All-Terrain Driver",
+      "active": false,
+      "ranked": false,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 4,
+      "name": "Ambush",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 5,
+      "name": "Anatomy Lessons",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 6,
+      "name": "Animal Bond",
+      "active": false,
+      "ranked": false,
+      "forcesensitive": true,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 7,
+      "name": "Animal Bond (Improved)",
+      "active": false,
+      "ranked": false,
+      "forcesensitive": true,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 8,
+      "name": "Animal Empathy",
+      "active": false,
+      "ranked": false,
+      "forcesensitive": true,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 9,
+      "name": "Armor Master",
+      "active": false,
+      "ranked": false,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 10,
+      "name": "Armor Master (Supreme)",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 11,
+      "name": "Armor Master [Improved]",
+      "active": false,
+      "ranked": false,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 12,
+      "name": "Ataru Technique",
+      "active": false,
+      "ranked": false,
+      "forcesensitive": true,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 13,
+      "name": "Bacta Specialist",
+      "active": false,
+      "ranked": true,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 14,
+      "name": "Bad Cop",
+      "active": false,
+      "ranked": true,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 15,
+      "name": "Bad Motivator",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 16,
+      "name": "Bad Press",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 17,
+      "name": "Balance",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": true,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 18,
+      "name": "Baleful Gaze",
+      "active": true,
+      "ranked": false,
+      "forcesensitive": true,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    },
+    {
+      "index": 19,
+      "name": "Barrage",
+      "active": false,
+      "ranked": true,
+      "forcesensitive": false,
+      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+    }
+  ]
+}
