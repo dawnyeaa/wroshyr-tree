@@ -5,160 +5,3544 @@
       "name": "Adversary",
       "active": false,
       "ranked": true,
-      "forcesensitive": false,
-      "text": "Upgrade the difficulty of any combat check targeting this character once per rank of Adversary."
+      "force": false,
+      "text": ""
     },
     {
       "index": 1,
       "name": "Against all Odds",
       "active": true,
       "ranked": false,
-      "forcesensitive": true,
-      "text": "Once per session, if the character is incapacitated due to exceeding his wound threshold, he may perform the Against All Odds action (this action may be performed even though characters are normally barred from performing actions when incapacitated). The character makes a $bHard ($d $d $d) Resilience check$b, rolling a number of $D equal to his Force rating as part of the check. If successful, the character heals would equal to $s. The character may spend Force points $f to add $s to the result."
+      "force": true,
+      "text": ""
     },
     {
       "index": 2,
       "name": "Aggressive Negotiations",
       "active": true,
       "ranked": false,
-      "forcesensitive": true,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": true,
+      "text": ""
     },
     {
       "index": 3,
       "name": "All-Terrain Driver",
       "active": false,
       "ranked": false,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 4,
       "name": "Ambush",
       "active": true,
       "ranked": false,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 5,
       "name": "Anatomy Lessons",
       "active": true,
       "ranked": false,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 6,
       "name": "Animal Bond",
       "active": false,
       "ranked": false,
-      "forcesensitive": true,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": true,
+      "text": ""
     },
     {
       "index": 7,
       "name": "Animal Bond (Improved)",
       "active": false,
       "ranked": false,
-      "forcesensitive": true,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": true,
+      "text": ""
     },
     {
       "index": 8,
       "name": "Animal Empathy",
       "active": false,
       "ranked": false,
-      "forcesensitive": true,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": true,
+      "text": ""
     },
     {
       "index": 9,
       "name": "Armor Master",
       "active": false,
       "ranked": false,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 10,
       "name": "Armor Master (Supreme)",
       "active": true,
       "ranked": false,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 11,
       "name": "Armor Master [Improved]",
       "active": false,
       "ranked": false,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 12,
       "name": "Ataru Technique",
       "active": false,
       "ranked": false,
-      "forcesensitive": true,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": true,
+      "text": ""
     },
     {
       "index": 13,
       "name": "Bacta Specialist",
       "active": false,
       "ranked": true,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 14,
       "name": "Bad Cop",
       "active": false,
       "ranked": true,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 15,
       "name": "Bad Motivator",
       "active": true,
       "ranked": false,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 16,
       "name": "Bad Press",
       "active": true,
       "ranked": false,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
     },
     {
       "index": 17,
       "name": "Balance",
       "active": true,
       "ranked": false,
-      "forcesensitive": true,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": true,
+      "text": ""
     },
     {
       "index": 18,
       "name": "Baleful Gaze",
       "active": true,
       "ranked": false,
-      "forcesensitive": true,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": true,
+      "text": ""
     },
     {
       "index": 19,
       "name": "Barrage",
       "active": false,
       "ranked": true,
-      "forcesensitive": false,
-      "text": "Once per session, perform a $bHard ($d $d $d) Lightsaber check$b to decrease the difficulty of all Negotiation checks for the rest of the encounter by 2."
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 20,
+      "name": "Basic Combat Training",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 21,
+      "name": "Beast Wrangler",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 22,
+      "name": "Better Luck Next Time",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 23,
+      "name": "Biggest Fan",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 24,
+      "name": "Black Market Contacts",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 25,
+      "name": "Blackmail",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 26,
+      "name": "Blind Spot",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 27,
+      "name": "Blooded",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 28,
+      "name": "Body Guard",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 29,
+      "name": "Body Guard (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 30,
+      "name": "Body Guard (Supreme)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 31,
+      "name": "Bolstered Armor",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 32,
+      "name": "Bought Info",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 33,
+      "name": "Brace",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 34,
+      "name": "Brilliant Evasion",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 35,
+      "name": "Bring it Down",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 36,
+      "name": "Burly",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 37,
+      "name": "Bypass Security",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 38,
+      "name": "Call 'em",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 39,
+      "name": "Calm Commander",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 40,
+      "name": "Calming Aura",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 41,
+      "name": "Calming Aura (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 42,
+      "name": "Careful Planning",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 43,
+      "name": "Center of Being",
+      "active": true,
+      "ranked": true,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 44,
+      "name": "Center of Being (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 45,
+      "name": "Circle of Shelter",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 46,
+      "name": "Clever Commander",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 47,
+      "name": "Clever Solution",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 48,
+      "name": "Codebreaker",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 49,
+      "name": "Command",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 50,
+      "name": "Commanding Presence",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 51,
+      "name": "Commanding Presence (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 52,
+      "name": "Comprehend Technology",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 53,
+      "name": "Conditioned",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 54,
+      "name": "Confidence",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 55,
+      "name": "Confidence (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 56,
+      "name": "Congenial",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 57,
+      "name": "Constant Vigilance",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 58,
+      "name": "Contingency Plan",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 59,
+      "name": "Contraption",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 60,
+      "name": "Convincing Demeanor",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 61,
+      "name": "Coordinated Assault",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 62,
+      "name": "Coordination Dodge",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 63,
+      "name": "Corellian Sendoff",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 64,
+      "name": "Corellian Sendoff [Improved]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 65,
+      "name": "Counterstrike",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 66,
+      "name": "Creative Killer",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 67,
+      "name": "Crippling Blow",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 68,
+      "name": "Crucial Point",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 69,
+      "name": "Cunning Snare",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 70,
+      "name": "Custom Loadout",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 71,
+      "name": "Customized Cooling Unit",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 72,
+      "name": "Cutting Question",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 73,
+      "name": "Cyberneticist",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 74,
+      "name": "Dead to Rights",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 75,
+      "name": "Dead to Rights [Improved]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 76,
+      "name": "Deadly Accuracy",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 77,
+      "name": "Deathblow",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 78,
+      "name": "Debilitating Shot",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 79,
+      "name": "Deceptive Taunt",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 80,
+      "name": "Dedication",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 81,
+      "name": "Defensive Circle",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 82,
+      "name": "Defensive Driving",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 83,
+      "name": "Defensive Slicing",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 84,
+      "name": "Defensive Slicing [Improved]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 85,
+      "name": "Defensive Stance",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 86,
+      "name": "Defensive Training",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 87,
+      "name": "Deft Maker",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 88,
+      "name": "Disarming Smile",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 89,
+      "name": "Discredit",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 90,
+      "name": "Disorient",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 91,
+      "name": "Disruptive Strike",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 92,
+      "name": "Distracting Behavior",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 93,
+      "name": "Distracting Behavior (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 94,
+      "name": "Djem So Deflection",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 95,
+      "name": "Dodge",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 96,
+      "name": "Don't Shoot",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 97,
+      "name": "Double or Nothing",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 98,
+      "name": "Double or Nothing (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 99,
+      "name": "Double or Nothing (Supreme)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 100,
+      "name": "Draw Closer",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 101,
+      "name": "Drive Back",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 102,
+      "name": "Duelist's Training",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 103,
+      "name": "Durable",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 104,
+      "name": "Dynamic Fire",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 105,
+      "name": "Empty Soul",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 106,
+      "name": "Encoded Communique",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 107,
+      "name": "Encouraging Words",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 108,
+      "name": "Enduring",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 109,
+      "name": "Energy Transfer",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 110,
+      "name": "Engineered Redundancies",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 111,
+      "name": "Enhanced Leader",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 112,
+      "name": "Essential Kill",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 113,
+      "name": "Exaust Port",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 114,
+      "name": "Exhaust Port",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 115,
+      "name": "Expert Handler",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 116,
+      "name": "Expert Tracker",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 117,
+      "name": "Eye for Detail",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 118,
+      "name": "Falling Avalanche",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 119,
+      "name": "Familiar Suns",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 120,
+      "name": "Fancy Paint Job",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 121,
+      "name": "Fear the Shadows",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 122,
+      "name": "Fearsome",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 123,
+      "name": "Feint",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 124,
+      "name": "Feral Strength",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 125,
+      "name": "Field Commander",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 126,
+      "name": "Field Commander [Improved]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 127,
+      "name": "Fine Tuning",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 128,
+      "name": "Fire Control",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 129,
+      "name": "Forager",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 130,
+      "name": "Force Assault",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 131,
+      "name": "Force Connection",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 132,
+      "name": "Force of Will",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 133,
+      "name": "Force Protection",
+      "active": true,
+      "ranked": true,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 134,
+      "name": "Force Rating",
+      "active": false,
+      "ranked": true,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 135,
+      "name": "Forewarning",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 136,
+      "name": "Form on Me",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 137,
+      "name": "Fortified Vacuum Seal",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 138,
+      "name": "Fortune Favors the Bold",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 139,
+      "name": "Freerunning",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 140,
+      "name": "Freerunning (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 141,
+      "name": "Frenzied Attack",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 142,
+      "name": "Full Stop",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 143,
+      "name": "Full Throttle",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 144,
+      "name": "Full Throttle [Improved]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 145,
+      "name": "Full Throttle [Supreme]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 146,
+      "name": "Galaxy Mapper",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 147,
+      "name": "Gang Leader",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 148,
+      "name": "Gearhead",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 149,
+      "name": "Go Without",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 150,
+      "name": "Good Cop",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 151,
+      "name": "Grapple",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 152,
+      "name": "Greased Palms",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 153,
+      "name": "Grit",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 154,
+      "name": "Guns Blazing",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 155,
+      "name": "Harass",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 156,
+      "name": "Hard Headed",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 157,
+      "name": "Hard Headed [Improved]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 158,
+      "name": "Hard-Boiled",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 159,
+      "name": "Hawk Bat Swoop",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 160,
+      "name": "Healing Trance",
+      "active": true,
+      "ranked": true,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 161,
+      "name": "Healing Trance (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 162,
+      "name": "Heavy Hitter",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 163,
+      "name": "Heightened Awareness",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 164,
+      "name": "Heroic Fortitude",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 165,
+      "name": "Heroic Resilience",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 166,
+      "name": "Hidden Storage",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 167,
+      "name": "High-G Training",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 168,
+      "name": "Hindering Shot",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 169,
+      "name": "Hold Together",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 170,
+      "name": "Holistic Navigation",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 171,
+      "name": "Hunter",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 172,
+      "name": "Hunter's Quarry",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 173,
+      "name": "Hunter's Quarry [Improved]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 174,
+      "name": "Idealist",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 175,
+      "name": "Imbue Item",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 176,
+      "name": "Impossible Fall",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 177,
+      "name": "Improvised Detonation",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 178,
+      "name": "Improvised Detonation [Improved]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 179,
+      "name": "In the Know",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 180,
+      "name": "In the Know (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 181,
+      "name": "Incite Rebellion",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 182,
+      "name": "Indistinguishable",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 183,
+      "name": "Informant",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 184,
+      "name": "Inity Assault",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 185,
+      "name": "Insight",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 186,
+      "name": "Inspiring Rhetoric",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 187,
+      "name": "Inspiring Rhetoric [Improved]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 188,
+      "name": "Inspiring Rhetoric [Supreme]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 189,
+      "name": "Intense Focus",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 190,
+      "name": "Intense Presence",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 191,
+      "name": "Interjection",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 192,
+      "name": "Intimidating",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 193,
+      "name": "Intuitive Evasion",
+      "active": true,
+      "ranked": true,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 194,
+      "name": "Intuitive Improvements",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 195,
+      "name": "Intuitive Navigation",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 196,
+      "name": "Intuitive Shot",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 197,
+      "name": "Intuitive Strike",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 198,
+      "name": "Inventor",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 199,
+      "name": "Invigorate",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 200,
+      "name": "Iron Body",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 201,
+      "name": "Iron Soul",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 202,
+      "name": "It's Not That Bad",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 203,
+      "name": "Jump Up",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 204,
+      "name": "Jury Rigged",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 205,
+      "name": "Just Kidding!",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 206,
+      "name": "Keen Eyed",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 207,
+      "name": "Kill with Kindness",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 208,
+      "name": "Knockdown",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 209,
+      "name": "Know Somebody",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 210,
+      "name": "Knowledge is Power",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 211,
+      "name": "Knowledge Specialization",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 212,
+      "name": "Knowledgeable Healing",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 213,
+      "name": "Known Schematic",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 214,
+      "name": "Koiogran Turn",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 215,
+      "name": "Larger Project",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 216,
+      "name": "Let's Ride",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 217,
+      "name": "Lethal Blows",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 218,
+      "name": "Lightsaber Mastery",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 219,
+      "name": "Loom",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 220,
+      "name": "Machine Mender",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 221,
+      "name": "Makashi Flourish",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 222,
+      "name": "Makashi Technique",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 223,
+      "name": "Marked for Death",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 224,
+      "name": "Martial Grace",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 225,
+      "name": "Master Artisan",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 226,
+      "name": "Master Doctor",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 227,
+      "name": "Master Driver",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 228,
+      "name": "Master Grenadier",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 229,
+      "name": "Master Instructor",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 230,
+      "name": "Master Leader",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 231,
+      "name": "Master Merchant",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 232,
+      "name": "Master of Shadows",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 233,
+      "name": "Master Pilot",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 234,
+      "name": "Master Slicer",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 235,
+      "name": "Master Starhopper",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 236,
+      "name": "Master Strategist",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 237,
+      "name": "Meditative Trance",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 238,
+      "name": "Menace",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 239,
+      "name": "Mental Bond",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 240,
+      "name": "Mental Fortress",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 241,
+      "name": "Mental Tools",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 242,
+      "name": "Mind Bleed",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 243,
+      "name": "Mind Over Matter",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 244,
+      "name": "More Machine than Man",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 245,
+      "name": "Moving Target",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 246,
+      "name": "Multiple Opponents",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 247,
+      "name": "Museum Worthy",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 248,
+      "name": "Natural Athlete",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 249,
+      "name": "Natural Blademaster",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 250,
+      "name": "Natural Brawler",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 251,
+      "name": "Natural Charmer",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 252,
+      "name": "Natural Doctor",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 253,
+      "name": "Natural Driver",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 254,
+      "name": "Natural Enforcer",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 255,
+      "name": "Natural Hunter",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 256,
+      "name": "Natural Instructor",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 257,
+      "name": "Natural Leader",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 258,
+      "name": "Natural Marksman",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 259,
+      "name": "Natural Merchant",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 260,
+      "name": "Natural Mystic",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 261,
+      "name": "Natural Negotiator",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 262,
+      "name": "Natural Outdoorsman",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 263,
+      "name": "Natural Pilot",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 264,
+      "name": "Natural Programmer",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 265,
+      "name": "Natural Rogue",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 266,
+      "name": "Natural Scholar",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 267,
+      "name": "Natural Tinkerer",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 268,
+      "name": "Niman Technique",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 269,
+      "name": "No Escape",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 270,
+      "name": "Nobody's Fool",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 271,
+      "name": "Not Today",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 272,
+      "name": "Now The Master",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 273,
+      "name": "Now You See Me",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 274,
+      "name": "Offensive Driving",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 275,
+      "name": "Once A Learner",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 276,
+      "name": "One with Nature",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 277,
+      "name": "One With the Universe",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 278,
+      "name": "Outdoorsman",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 279,
+      "name": "Overbalance",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 280,
+      "name": "Overcharge",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 281,
+      "name": "Overcharge (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 282,
+      "name": "Overcharge (Supreme)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 283,
+      "name": "Overstocked Ammo",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 284,
+      "name": "Overwhelm Defenses",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 285,
+      "name": "Overwhelm Emotions",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 286,
+      "name": "Parry",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 287,
+      "name": "Parry (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 288,
+      "name": "Parry (Supreme)",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 289,
+      "name": "Physical Training",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 290,
+      "name": "Physician",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 291,
+      "name": "Pin",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 292,
+      "name": "Planet Mapper",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 293,
+      "name": "Plausible Deniability",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 294,
+      "name": "Plausible Deniability (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 295,
+      "name": "Point Blank",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 296,
+      "name": "Positive Spin",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 297,
+      "name": "Positive Spin (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 298,
+      "name": "Powerful Blast",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 299,
+      "name": "Precise Aim",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 300,
+      "name": "Precision Strike",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 301,
+      "name": "Precision Strike (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 302,
+      "name": "Precision Strike (Supreme)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 303,
+      "name": "Preemptive Avoidance",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 304,
+      "name": "Prescient Shot",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 305,
+      "name": "Pressure Point",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 306,
+      "name": "Prey on the Weak",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 307,
+      "name": "Prime Positions",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 308,
+      "name": "Prophetic Aim",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 309,
+      "name": "Quick Draw",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 310,
+      "name": "Quick Draw (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 311,
+      "name": "Quick Fix",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 312,
+      "name": "Quick Movement",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 313,
+      "name": "Quick Strike",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 314,
+      "name": "Rain of Death",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 315,
+      "name": "Rapid Reaction",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 316,
+      "name": "Rapid Recovery",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 317,
+      "name": "Ready for Anything",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 318,
+      "name": "Reconstruct the Scene",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 319,
+      "name": "Redundant Systems",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 320,
+      "name": "Reflect",
+      "active": true,
+      "ranked": true,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 321,
+      "name": "Reflect (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 322,
+      "name": "Reflect (Supreme)",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 323,
+      "name": "Reinforce Item",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 324,
+      "name": "Reinforced Frame",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 325,
+      "name": "Reroute Processors",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 326,
+      "name": "Researcher",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 327,
+      "name": "Researcher (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 328,
+      "name": "Resist Disarm",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 329,
+      "name": "Resolve",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 330,
+      "name": "Resourceful Refit",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 331,
+      "name": "Respected Scholar",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 332,
+      "name": "Ritual Caster",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 333,
+      "name": "Saber Swarm",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 334,
+      "name": "Saber Throw",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 335,
+      "name": "Saber Throw (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 336,
+      "name": "Sarlacc Sweep",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 337,
+      "name": "Savvy Negotiator",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 338,
+      "name": "Savvy Negotiator (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 339,
+      "name": "Scathing Tirade",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 340,
+      "name": "Scathing Tirade [Improved]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 341,
+      "name": "Scathing Tirade [Supreme]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 342,
+      "name": "Second Chances",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 343,
+      "name": "Second Wind",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 344,
+      "name": "Seize the Initiative",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 345,
+      "name": "Selective Detonation",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 346,
+      "name": "Sense Advantage",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 347,
+      "name": "Sense Danger",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 348,
+      "name": "Sense Emotions",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 349,
+      "name": "Sense the Scene",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 350,
+      "name": "Share Pain",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 351,
+      "name": "Shein Technique",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 352,
+      "name": "Shortcut",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 353,
+      "name": "Shortcut (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 354,
+      "name": "Showboat",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 355,
+      "name": "Side Step",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 356,
+      "name": "Signature Vehicle",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 357,
+      "name": "Situational Awareness",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 358,
+      "name": "Sixth Sense",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 359,
+      "name": "Skilled Jockey",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 360,
+      "name": "Skilled Slicer",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 361,
+      "name": "Skilled Teacher",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 362,
+      "name": "Sleight of Mind",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 363,
+      "name": "Slippery Minded",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 364,
+      "name": "Smooth Talker",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 365,
+      "name": "Sniper Shot",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 366,
+      "name": "Soft Spot",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 367,
+      "name": "Solid Repairs",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 368,
+      "name": "Soothing Tone",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 369,
+      "name": "Soresu Technique",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 370,
+      "name": "Sorry About the Mess",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 371,
+      "name": "Sound Investments",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 372,
+      "name": "Spare Clip",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 373,
+      "name": "Speaks Binary",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 374,
+      "name": "Speaks Binary (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 375,
+      "name": "Speaks Binary (Supreme)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 376,
+      "name": "Spitfire",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 377,
+      "name": "Spur",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 378,
+      "name": "Spur [Improved]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 379,
+      "name": "Spur [Supreme]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 380,
+      "name": "Stalker",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 381,
+      "name": "Steady Nerves",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 382,
+      "name": "Steely Nerves",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 383,
+      "name": "Stim Application",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 384,
+      "name": "Stim Application [Improved]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 385,
+      "name": "Stim Application [Supreme]",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 386,
+      "name": "Stimpack Specialization",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 387,
+      "name": "Strategic Form",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 388,
+      "name": "Street Smarts",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 389,
+      "name": "Street Smarts (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 390,
+      "name": "Stroke of Genius",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 391,
+      "name": "Strong Arm",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 392,
+      "name": "Studious Plotting",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 393,
+      "name": "Stunning Blow",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 394,
+      "name": "Stunning Blow [Improved]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 395,
+      "name": "Sum Djem",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 396,
+      "name": "Sunder (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 397,
+      "name": "Superhuman Reflexes",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 398,
+      "name": "Superior Reflexes",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 399,
+      "name": "Supporting Evidence",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 400,
+      "name": "Suppressing Fire",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 401,
+      "name": "Surgeon",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 402,
+      "name": "Survival of the Fittest",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 403,
+      "name": "Swift",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 404,
+      "name": "Tactical Combat Training",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 405,
+      "name": "Talk the Talk",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 406,
+      "name": "Targeted Blow",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 407,
+      "name": "Technical Aptitude",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 408,
+      "name": "Terrify",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 409,
+      "name": "Terrify (Improved)",
+      "active": false,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 410,
+      "name": "Terrifying Kill",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 411,
+      "name": "That's how it's Done",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 412,
+      "name": "The Force is my Allay",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 413,
+      "name": "Thorough Assesment",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 414,
+      "name": "Throwing Credits",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 415,
+      "name": "Time to Go",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 416,
+      "name": "Time to Go [Improved]",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 417,
+      "name": "Tinkerer",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 418,
+      "name": "Touch of Fate",
+      "active": true,
+      "ranked": false,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 419,
+      "name": "Toughened",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 420,
+      "name": "Tricky Target",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 421,
+      "name": "True Aim",
+      "active": true,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 422,
+      "name": "Tuned Maneuvering Thrusters",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 423,
+      "name": "Twisted Words",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 424,
+      "name": "Unarmed Parry",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 425,
+      "name": "Uncanny Reactions",
+      "active": false,
+      "ranked": true,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 426,
+      "name": "Uncanny Senses",
+      "active": false,
+      "ranked": true,
+      "force": true,
+      "text": ""
+    },
+    {
+      "index": 427,
+      "name": "Unrelenting Skeptic",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 428,
+      "name": "Unrelenting Skeptic (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 429,
+      "name": "Unstoppable",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 430,
+      "name": "Up the Ante",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 431,
+      "name": "Utility Belt",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 432,
+      "name": "Utinni!",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 433,
+      "name": "Valuable Facts",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 434,
+      "name": "Vehicle Combat Training",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 435,
+      "name": "Walk the Walk",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 436,
+      "name": "Well Read",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 437,
+      "name": "Well Rounded",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 438,
+      "name": "Well Traveled",
+      "active": false,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 439,
+      "name": "Wheel and Deal",
+      "active": false,
+      "ranked": true,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 440,
+      "name": "Wise Warrior",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 441,
+      "name": "Wise Warrior (Improved)",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
+    },
+    {
+      "index": 442,
+      "name": "Works Like a Charm",
+      "active": true,
+      "ranked": false,
+      "force": false,
+      "text": ""
     }
   ]
 }
